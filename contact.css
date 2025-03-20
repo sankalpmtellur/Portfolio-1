@@ -22,7 +22,7 @@ body {
 .navbar a {
     text-decoration: none;
     font-size: 30px;
-    color: #da7f11;
+    color: #fe3700;
     padding: 10px 20px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }

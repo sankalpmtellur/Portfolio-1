@@ -13,7 +13,7 @@ body {
 .navbar a {
     text-decoration: none;
     font-size: 30px;
-    color: #1ebcf1;
+    color: #1e61f1;
     padding: 10px 20px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }

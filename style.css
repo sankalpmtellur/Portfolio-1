@@ -1,13 +1,13 @@
 body {
     background: linear-gradient(
-      90deg, 
-      #f0a500,
-      #ff4500,
-      #1e90ff, 
-      #6a11cb, 
-      #32cd32, 
-      #ff69b4 
-    );
+        90deg, 
+        #ffbb5c, 
+        #ff577f, 
+        #5f9df7, 
+        #a685e2,
+        #43d8c9, 
+        #f0a6ca
+      );
     background-size: 400% 400%;
     animation: gradientAnimation 10s ease infinite;
     height: 100vh;
